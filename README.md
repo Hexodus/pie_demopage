@@ -6,7 +6,7 @@ This page ist made to do the following:
 * don't know more
 
 Some initial code madness:
-		for($i=9; $i<=1 ; $i--)
-		{
-			echo "loop me bitch!";
-		}
+    for($i=9; $i<=1 ; $i--)
+    {
+		echo "loop me bitch!";
+    }
